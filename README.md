@@ -9,4 +9,4 @@ Este programa nos permite gestionar un inventario de productos, utilizando un ST
 
 ## Funcionamiento del programa
 <img width="1600" height="856" alt="image" src="https://github.com/user-attachments/assets/a4601b5f-9022-4f7f-95fd-b6bf2ce2e953" />
-Como se observa y se muestra en la imagen los productos registrados inicialmente con sus precios del cuaderno, lápiz, borrador y mochila. Luego de modificar el precio, se actualizaron, exactamente del lápiz, y muestra que se actualizo correctamente, demostrando acceso y edición por índice dentro del vector.
+Como se observa y se muestra en la imagen los productos registrados inicialmente con sus precios del cuaderno, lápiz, borrador y mochila. Luego de modificar el precio, se actualizaron, exactamente del lápiz, y muestra que se actualizo correctamente, demostrando acceso y edición por índice dentro del vector. Por otro lado, el programa recorre todos los objetos y calcula ek precio promedio del inventario (127.335). Y por último se ve que se accede al producto en la posición 2 (Borrador), de forma algo controlada, mostrando que el método "at()" evita los errores de acceso.
